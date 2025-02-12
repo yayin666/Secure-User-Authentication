@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+form { display: inline-block; padding: 20px; border: 1px solid #0b0b0b; border-radius: 10px; }
+input { display: block; margin: 10px 0; padding: 8px; width: 100%; box-sizing: border-box; }
+button { padding: 8px 15px; background: #6036c9; color: #eeeff4; border: none; border-radius: 5px; cursor: pointer; }
+button:hover { background: #1151c0; }
